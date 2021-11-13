@@ -1,1 +1,8 @@
 node_modules
+src
+git
+gulpfile.js
+package-lock.json
+package.json
+.vscode
+base.htm
